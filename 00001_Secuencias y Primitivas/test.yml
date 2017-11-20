@@ -15,7 +15,6 @@ examples:
      cell 2 0 Verde 1
      cell 2 0 Negro 1
      head 2 0
-     
  - title: 'Versión Norte'
    initial_board: |
      GBB/1.0
