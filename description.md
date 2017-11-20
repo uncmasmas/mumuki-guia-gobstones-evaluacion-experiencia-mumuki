@@ -1,0 +1,1 @@
+En está guía resumineremos todos los conceptos que se han presentado en las diferentes guías de mumuki. 
