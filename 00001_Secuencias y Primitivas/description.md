@@ -1,0 +1,1 @@
+Teniendo en cuenta el siguiente tablero: 
