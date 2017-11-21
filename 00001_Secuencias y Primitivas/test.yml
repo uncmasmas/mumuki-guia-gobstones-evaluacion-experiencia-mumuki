@@ -4,7 +4,7 @@ examples:
    initial_board: |
      GBB/1.0
      size 5 5
-     head 2 0
+     head 0 0
    final_board: |
      GBB/1.0
      size 5 5
@@ -12,7 +12,7 @@ examples:
      cell 1 1 Verde 1 
      cell 2 2 Verde 1
      cell 3 3 Verde 1
-     head 2 0
+     head 0 0
  - title: '3 al Este'
    initial_board: |
      GBB/1.0
