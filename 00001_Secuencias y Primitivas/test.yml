@@ -3,7 +3,7 @@ examples:
  - title: 'Versión Norte'
    initial_board: |
      GBB/1.0
-     size 3 3
+     size 6 1
      head 0 0
    final_board: |
      GBB/1.0
