@@ -3,8 +3,9 @@ examples:
  - title: 'Versión Norte'
    initial_board: |
      GBB/1.0
-     size 6 1
-     head 5 0
+     size 1 1
+     cell 00 Azul 10
+     head 0 0
    final_board: |
      GBB/1.0
      size 6 1
